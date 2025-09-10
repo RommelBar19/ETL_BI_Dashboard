@@ -4,3 +4,4 @@
 # PyCharm
 .idea/
 .venv/
+.data/raw/
