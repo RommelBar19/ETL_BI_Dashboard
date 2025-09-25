@@ -1,0 +1,13 @@
+# variabili d'ambiente per la connessione al db
+# inserire i valori per ciascuna variabile
+# modificare il nome del file in .env
+# dove si trova il server
+dbhost =
+# nome del database
+dbname =
+# nome del owner del database
+dbuser =
+# password del database
+dbpw =
+# su quale porta comunica il sever
+dbport =

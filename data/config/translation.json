@@ -1,0 +1,22 @@
+{
+  "mobili_decorazione": "mobili",
+  "mobili_ufficio": "mobili",
+  "letto_bagno_tavola": "articoli_per_la_casa",
+  "climatizzazione": "articoli_per_la_casa",
+  "moda_borse_accessori": "moda",
+  "moda_abbigliamento_donna": "moda",
+  "moda_calzature": "moda",
+  "moda_abbigliamento_uomo": "moda",
+  "negozio_animali": "animali",
+  "telefonia": "elettronica",
+  "informatica_accessori": "elettronica",
+  "telefonia_fissa": "elettronica",
+  "audio": "elettronica",
+  "profumeria": "salute_bellezza",
+  "pannolini_igiene": "salute_bellezza",
+  "libri_interesse_generale": "libri",
+  "libri_tecnici": "libri",
+  "articoli_cool": "idee_regalo",
+  "orologi_regali": "idee_regalo",
+  "industria_commercio_affari": "prodotti_industriali"
+}

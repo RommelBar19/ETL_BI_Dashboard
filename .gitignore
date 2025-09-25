@@ -4,4 +4,7 @@
 # PyCharm
 .idea/
 .venv/
-.data/raw/
+.env
+.jupyter/
+.ipynb_checkpoints
+.ipynb_checkpoints/
