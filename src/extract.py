@@ -2,7 +2,7 @@ import os
 
 from src import ROOT_DIR, raw_path
 import pandas as pd
-import transform as tr
+"""from src import transform as tr
 
 def scaning_folder():
     cartella = os.scandir(ROOT_DIR / raw_path)
@@ -20,12 +20,13 @@ def scaning_folder():
             tr.trf_seller(extract_csv(file))
         elif "products" in str(file):
             tr.trf_prod(extract_csv(file))
-
+"""
 def extract_csv(file_name):
     print("Extracting file...")
-    df = pd.read_csv(ROOT_DIR / raw_path / file_name, sep=",")
-    print(f"{file_name} extracted")
+    df = pd.read_csv(ROOT_DIR / raw_path / file_name)
+    print(f"{file_name.name} extracted")
     return df
 
 if __name__=="__main__":
-    scaning_folder()
+    #scaning_folder()
+    pass

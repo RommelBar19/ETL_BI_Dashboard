@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "68d698bd5b289c166cd7f5dc"
+  },
+  "nome": "fk_orders_items",
+  "a": "items",
+  "da": "orders",
+  "key": "order_id"
+},
+{
+  "_id": {
+    "$oid": "68d699445b289c166cd7f5dd"
+  },
+  "nome": "fk_products_items",
+  "a": "items",
+  "da": "products",
+  "key": "product_id"
+},
+{
+  "_id": {
+    "$oid": "68d699705b289c166cd7f5de"
+  },
+  "nome": "fk_sellers_items",
+  "a": "items",
+  "da": "sellers",
+  "key": "seller_id"
+},
+{
+  "_id": {
+    "$oid": "68d69b005b289c166cd7f5df"
+  },
+  "nome": "fk_customers_orders",
+  "a": "orders",
+  "da": "customers",
+  "key": "customer_id"
+},
+{
+  "_id": {
+    "$oid": "68d69c935b289c166cd7f5e0"
+  },
+  "nome": "fk_categories_products",
+  "a": "products",
+  "da": "categories",
+  "key": "subcategory_en"
+}]

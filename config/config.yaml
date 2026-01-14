@@ -1,4 +1,5 @@
 files:
   raw_path: "data/raw/"
   processed_path: "data/processed/"
+  wip_path: "data/wip"
   config_path: "data/config"
